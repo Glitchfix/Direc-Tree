@@ -1,4 +1,4 @@
-# Direc-Tree-ory
+# Direc-Tree
 # Desc: A basic file traversal application scripted in Python 2.7.11 
 # Authored by- Shivanjan Chakravorty
 # Github- github.com/Glitchfix
