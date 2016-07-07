@@ -21,7 +21,7 @@ def direc_tree_ory(p,j):
                 print x
         except:
             print '\n***AUTHORISED ELEVATION REQUIRED***\n'
-            
+        
 k=''
 s=raw_input('Which drive do you want to search? ').upper()
 s+=":\\"
